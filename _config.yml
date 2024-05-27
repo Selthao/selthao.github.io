@@ -16,7 +16,7 @@ timezone: America/Montevideo
 
 title: Ezequiel Alvarez # the main title
 
-tagline: Pentesting Student | CTF Player # it will display as the sub-title
+tagline: Penetration Testing Student | CTF Player # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Penetration Testing, Penetration Tester, Hack the box, Tryhackme, CTF Player, Write Ups, blog, Github, Linkedin.
